@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/nalshya_protpolio_public/static/css/main.a3582f3d.chunk.css",
-    "main.js": "/nalshya_protpolio_public/static/js/main.76f6b0b4.chunk.js",
-    "main.js.map": "/nalshya_protpolio_public/static/js/main.76f6b0b4.chunk.js.map",
+    "main.js": "/nalshya_protpolio_public/static/js/main.e6360443.chunk.js",
+    "main.js.map": "/nalshya_protpolio_public/static/js/main.e6360443.chunk.js.map",
     "runtime-main.js": "/nalshya_protpolio_public/static/js/runtime-main.ebcaa0da.js",
     "runtime-main.js.map": "/nalshya_protpolio_public/static/js/runtime-main.ebcaa0da.js.map",
     "static/css/2.54652363.chunk.css": "/nalshya_protpolio_public/static/css/2.54652363.chunk.css",
-    "static/js/2.68d3ff5d.chunk.js": "/nalshya_protpolio_public/static/js/2.68d3ff5d.chunk.js",
-    "static/js/2.68d3ff5d.chunk.js.map": "/nalshya_protpolio_public/static/js/2.68d3ff5d.chunk.js.map",
+    "static/js/2.433ec296.chunk.js": "/nalshya_protpolio_public/static/js/2.433ec296.chunk.js",
+    "static/js/2.433ec296.chunk.js.map": "/nalshya_protpolio_public/static/js/2.433ec296.chunk.js.map",
     "index.html": "/nalshya_protpolio_public/index.html",
     "static/css/2.54652363.chunk.css.map": "/nalshya_protpolio_public/static/css/2.54652363.chunk.css.map",
     "static/css/main.a3582f3d.chunk.css.map": "/nalshya_protpolio_public/static/css/main.a3582f3d.chunk.css.map",
-    "static/js/2.68d3ff5d.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/2.68d3ff5d.chunk.js.LICENSE.txt",
-    "static/js/main.76f6b0b4.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/main.76f6b0b4.chunk.js.LICENSE.txt",
+    "static/js/2.433ec296.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/2.433ec296.chunk.js.LICENSE.txt",
+    "static/js/main.e6360443.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/main.e6360443.chunk.js.LICENSE.txt",
     "static/media/01.png": "/nalshya_protpolio_public/static/media/01.d5b0f31b.png",
     "static/media/02.png": "/nalshya_protpolio_public/static/media/02.f95cbb01.png",
     "static/media/03.png": "/nalshya_protpolio_public/static/media/03.fdfe7883.png",
@@ -22,7 +22,6 @@
     "static/media/07.png": "/nalshya_protpolio_public/static/media/07.a5485a82.png",
     "static/media/08.png": "/nalshya_protpolio_public/static/media/08.eb331c68.png",
     "static/media/09.png": "/nalshya_protpolio_public/static/media/09.fb8476b4.png",
-    "static/media/10.png": "/nalshya_protpolio_public/static/media/10.350c2870.png",
     "static/media/11.png": "/nalshya_protpolio_public/static/media/11.0c258c83.png",
     "static/media/12.png": "/nalshya_protpolio_public/static/media/12.a93e1fdc.png",
     "static/media/13.png": "/nalshya_protpolio_public/static/media/13.43c98847.png",
@@ -41,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.ebcaa0da.js",
     "static/css/2.54652363.chunk.css",
-    "static/js/2.68d3ff5d.chunk.js",
+    "static/js/2.433ec296.chunk.js",
     "static/css/main.a3582f3d.chunk.css",
-    "static/js/main.76f6b0b4.chunk.js"
+    "static/js/main.e6360443.chunk.js"
   ]
 }
