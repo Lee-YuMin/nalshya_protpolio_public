@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/nalshya_protpolio_public/static/css/main.b884c4da.chunk.css",
-    "main.js": "/nalshya_protpolio_public/static/js/main.de52009b.chunk.js",
-    "main.js.map": "/nalshya_protpolio_public/static/js/main.de52009b.chunk.js.map",
+    "main.css": "/nalshya_protpolio_public/static/css/main.190a60a4.chunk.css",
+    "main.js": "/nalshya_protpolio_public/static/js/main.3f2b13ab.chunk.js",
+    "main.js.map": "/nalshya_protpolio_public/static/js/main.3f2b13ab.chunk.js.map",
     "runtime-main.js": "/nalshya_protpolio_public/static/js/runtime-main.ebcaa0da.js",
     "runtime-main.js.map": "/nalshya_protpolio_public/static/js/runtime-main.ebcaa0da.js.map",
     "static/css/2.54652363.chunk.css": "/nalshya_protpolio_public/static/css/2.54652363.chunk.css",
-    "static/js/2.6a128dfa.chunk.js": "/nalshya_protpolio_public/static/js/2.6a128dfa.chunk.js",
-    "static/js/2.6a128dfa.chunk.js.map": "/nalshya_protpolio_public/static/js/2.6a128dfa.chunk.js.map",
+    "static/js/2.679e057f.chunk.js": "/nalshya_protpolio_public/static/js/2.679e057f.chunk.js",
+    "static/js/2.679e057f.chunk.js.map": "/nalshya_protpolio_public/static/js/2.679e057f.chunk.js.map",
     "index.html": "/nalshya_protpolio_public/index.html",
     "static/css/2.54652363.chunk.css.map": "/nalshya_protpolio_public/static/css/2.54652363.chunk.css.map",
-    "static/css/main.b884c4da.chunk.css.map": "/nalshya_protpolio_public/static/css/main.b884c4da.chunk.css.map",
-    "static/js/2.6a128dfa.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/2.6a128dfa.chunk.js.LICENSE.txt",
-    "static/js/main.de52009b.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/main.de52009b.chunk.js.LICENSE.txt",
+    "static/css/main.190a60a4.chunk.css.map": "/nalshya_protpolio_public/static/css/main.190a60a4.chunk.css.map",
+    "static/js/2.679e057f.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/2.679e057f.chunk.js.LICENSE.txt",
+    "static/js/main.3f2b13ab.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/main.3f2b13ab.chunk.js.LICENSE.txt",
     "static/media/01.png": "/nalshya_protpolio_public/static/media/01.d5b0f31b.png",
     "static/media/02.png": "/nalshya_protpolio_public/static/media/02.f95cbb01.png",
     "static/media/03.png": "/nalshya_protpolio_public/static/media/03.fdfe7883.png",
@@ -40,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.ebcaa0da.js",
     "static/css/2.54652363.chunk.css",
-    "static/js/2.6a128dfa.chunk.js",
-    "static/css/main.b884c4da.chunk.css",
-    "static/js/main.de52009b.chunk.js"
+    "static/js/2.679e057f.chunk.js",
+    "static/css/main.190a60a4.chunk.css",
+    "static/js/main.3f2b13ab.chunk.js"
   ]
 }
