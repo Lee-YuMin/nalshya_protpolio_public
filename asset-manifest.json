@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nalshya_protpolio_public/static/css/main.190a60a4.chunk.css",
-    "main.js": "/nalshya_protpolio_public/static/js/main.3a0b02b9.chunk.js",
-    "main.js.map": "/nalshya_protpolio_public/static/js/main.3a0b02b9.chunk.js.map",
+    "main.js": "/nalshya_protpolio_public/static/js/main.a87d768b.chunk.js",
+    "main.js.map": "/nalshya_protpolio_public/static/js/main.a87d768b.chunk.js.map",
     "runtime-main.js": "/nalshya_protpolio_public/static/js/runtime-main.ebcaa0da.js",
     "runtime-main.js.map": "/nalshya_protpolio_public/static/js/runtime-main.ebcaa0da.js.map",
     "static/css/2.54652363.chunk.css": "/nalshya_protpolio_public/static/css/2.54652363.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.54652363.chunk.css.map": "/nalshya_protpolio_public/static/css/2.54652363.chunk.css.map",
     "static/css/main.190a60a4.chunk.css.map": "/nalshya_protpolio_public/static/css/main.190a60a4.chunk.css.map",
     "static/js/2.dc5c4afe.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/2.dc5c4afe.chunk.js.LICENSE.txt",
-    "static/js/main.3a0b02b9.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/main.3a0b02b9.chunk.js.LICENSE.txt",
+    "static/js/main.a87d768b.chunk.js.LICENSE.txt": "/nalshya_protpolio_public/static/js/main.a87d768b.chunk.js.LICENSE.txt",
     "static/media/01.png": "/nalshya_protpolio_public/static/media/01.d5b0f31b.png",
     "static/media/02.png": "/nalshya_protpolio_public/static/media/02.f95cbb01.png",
     "static/media/03.png": "/nalshya_protpolio_public/static/media/03.fdfe7883.png",
@@ -42,6 +42,6 @@
     "static/css/2.54652363.chunk.css",
     "static/js/2.dc5c4afe.chunk.js",
     "static/css/main.190a60a4.chunk.css",
-    "static/js/main.3a0b02b9.chunk.js"
+    "static/js/main.a87d768b.chunk.js"
   ]
 }
